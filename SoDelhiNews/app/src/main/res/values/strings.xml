@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SoDelhiNews</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news">News</string>
+    <string name="sodelhi">SoDelhi</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="full_article">Full Article</string>
+    <string name="source">Source</string>
+    <string name="publish_at">Publish At</string>
+    <string name="internet_warning">Please connect with your Internet.</string>
+    <string name="key">f1e709ea6b274ae2a1259b903e94d4c4</string>
+    <string name="so_delhi">SO Delhi</string>
+</resources>
