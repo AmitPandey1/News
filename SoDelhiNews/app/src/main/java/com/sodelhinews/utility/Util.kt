@@ -75,6 +75,7 @@ object Util {
             }
             override fun onFailure(call: Call<NewsArticle>, t: Throwable) {
                 showToast(t.toString(),1, context)
+                println("api failure : "+t)
             }
         })
     }
